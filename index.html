@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ETFSA Explorer</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="manifest" href="manifest.json" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>ETFSA Explorer</h1>
+      <div class="filters">
+        <input type="text" id="searchInput" placeholder="Search by name or ticker..." />
+        <select id="typeFilter">
+          <option value="">All Types</option>
+          <option value="ETF">ETF</option>
+          <option value="AMETF">AMETF</option>
+          <option value="ETN">ETN</option>
+          <option value="AMC">AMC</option>
+        </select>
+        <select id="categoryFilter">
+          <option value="">All Categories</option>
+        </select>
+      </div>
+      <div id="etf-container" class="etf-container"></div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
