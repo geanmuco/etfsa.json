@@ -1,0 +1,21 @@
+{
+  "name": "ETFSA Explorer",
+  "short_name": "ETFSA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#1a73e8",
+  "description": "A simple explorer for South African ETFs.",
+  "icons": [
+    {
+      "src": "data/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "data/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

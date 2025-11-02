@@ -1,0 +1,66 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #1a73e8;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.filters input,
+.filters select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  flex-grow: 1;
+}
+
+.etf-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.etf-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.etf-card h2 {
+  font-size: 1.2em;
+  margin-top: 0;
+  color: #1a73e8;
+}
+
+.etf-card p {
+  margin: 5px 0;
+}
+
+.etf-card .ticker {
+  font-weight: bold;
+}
+
+.etf-card .category {
+  font-style: italic;
+  color: #555;
+}
