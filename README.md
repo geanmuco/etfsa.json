@@ -6,6 +6,34 @@ A comprehensive repository for managing and analyzing ETF (Exchange-Traded Fund)
 
 This repository provides structured data and documentation for South African ETFs, AMETFs (Actively Managed ETFs), AMCs (Actively Managed Certificates), and savings accounts. The data is formatted in multiple machine-readable formats (JSON, YAML, NUON) to facilitate integration with financial analysis tools, portfolio tracking applications, and automated investment platforms.
 
+## Features
+
+This repository is designed to power a wide range of applications. Key features and use cases are outlined below, with more detail available in [docs/SUGGESTED_FEATURES.md](docs/SUGGESTED_FEATURES.md).
+
+- **Portfolio & Analytics**:
+  - **Personal Portfolio Tracker**: Visualize holdings, track performance, and monitor dividend schedules.
+  - **Risk Assessment Tool**: Analyze portfolio risk, compare domestic vs. foreign exposure, and evaluate sector concentration.
+  - **Fee Comparison App**: Compare management fees and calculate their impact over time.
+
+- **Data & APIs**:
+  - **Open REST API Service**: Build APIs to query ETF data by type, category, or ticker.
+  - **ETFs & Savings Screener**: Filter funds based on multiple criteria, including dividend frequency.
+  - **Multi-Format Converter**: Convert data between JSON, YAML, NUON, and other formats like CSV.
+
+- **Command-Line Tools**:
+  - **Nushell ETF Explorer**: Use the NUON format for powerful command-line analysis with Nushell.
+  - **jq Query Builder**: Leverage pre-built `jq` queries for complex JSON data manipulation.
+
+- **Integration**:
+  - **Budgeting App Integration**: Sync ETF data with tools like YNAB or Mint.
+  - **Tax Reporting Helper**: Export data to assist with SARS e-filing.
+  - **Spreadsheet Add-ons**: Create plugins for Google Sheets or Excel to import and auto-update fund data.
+
+- **Educational & Visualization**:
+  - **ETF/SA Explorer**: Build interactive tools to explain key investment concepts.
+  - **Geographic Exposure Mapper**: Visualize global ETF exposure with interactive maps.
+  - **Sector Allocation Dashboard**: Create charts to visualize sector allocations across a portfolio.
+
 ## Repository Structure
 
 ```
